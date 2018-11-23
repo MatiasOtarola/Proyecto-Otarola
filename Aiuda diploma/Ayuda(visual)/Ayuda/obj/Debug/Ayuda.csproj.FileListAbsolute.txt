@@ -1,0 +1,13 @@
+c:\users\navegador\documents\visual studio 2013\Projects\Ayuda\Ayuda\bin\Debug\Ayuda.exe.config
+c:\users\navegador\documents\visual studio 2013\Projects\Ayuda\Ayuda\bin\Debug\Ayuda.exe
+c:\users\navegador\documents\visual studio 2013\Projects\Ayuda\Ayuda\bin\Debug\Ayuda.pdb
+c:\users\navegador\documents\visual studio 2013\Projects\Ayuda\Ayuda\obj\Debug\Ayuda.csprojResolveAssemblyReference.cache
+c:\users\navegador\documents\visual studio 2013\Projects\Ayuda\Ayuda\obj\Debug\Ayuda.Form1.resources
+c:\users\navegador\documents\visual studio 2013\Projects\Ayuda\Ayuda\obj\Debug\Ayuda.Properties.Resources.resources
+c:\users\navegador\documents\visual studio 2013\Projects\Ayuda\Ayuda\obj\Debug\Ayuda.csproj.GenerateResource.Cache
+c:\users\navegador\documents\visual studio 2013\Projects\Ayuda\Ayuda\obj\Debug\Ayuda.exe
+c:\users\navegador\documents\visual studio 2013\Projects\Ayuda\Ayuda\obj\Debug\Ayuda.pdb
+c:\users\navegador\documents\visual studio 2013\Projects\Ayuda\Ayuda\obj\Debug\Ayuda.cliente.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Aiuda diploma\Ayuda(visual)\Ayuda\bin\Debug\Ayuda.exe.config
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Aiuda diploma\Ayuda(visual)\Ayuda\obj\Debug\Ayuda.exe
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Aiuda diploma\Ayuda(visual)\Ayuda\obj\Debug\Ayuda.pdb

@@ -1,0 +1,30 @@
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.dll.config
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.ctrlIdioma.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.dll.config
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.ctrlIdioma.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.dll.config
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\bin\Debug\Idioma_Selector.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.ctrlIdioma.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.Resources.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.vbproj.GenerateResource.Cache
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\ClassLibrary1\obj\Debug\Idioma_Selector.pdb

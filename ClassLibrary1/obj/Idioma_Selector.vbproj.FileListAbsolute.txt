@@ -1,0 +1,33 @@
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.dll
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.pdb
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.xml
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.ctrlIdioma.resources
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.Resources.resources
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.dll
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.xml
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.pdb
+C:\Documents and Settings\Familia Currá\Escritorio\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.dll.config
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.dll.config
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.dll
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.pdb
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.xml
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.ctrlIdioma.resources
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.Resources.resources
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.vbproj.GenerateResource.Cache
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.dll
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.xml
+C:\WINNT\Profiles\Navegador\Escritorio\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.pdb
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.dll.config
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.dll
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.pdb
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\bin\Debug\Idioma_Selector.xml
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.ctrlIdioma.resources
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.Resources.resources
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.dll
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.xml
+C:\Documents and Settings\Familia Currá\Escritorio\Nueva carpeta\Purchase And Sell Checks System\ClassLibrary1\obj\Debug\Idioma_Selector.pdb

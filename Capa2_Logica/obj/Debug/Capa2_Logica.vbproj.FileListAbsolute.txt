@@ -1,0 +1,75 @@
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.vbprojResolveAssemblyReference.cache
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.Resources.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.vbproj.GenerateResource.Cache
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa2_Logica\obj\Debug\Capa2_Logica.pdb

@@ -1,0 +1,11 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Ayuda.chm
+Contents file=Table of Contents Diploma.hhc
+Display compile progress=No
+Index file=Menu ayuda.hhk
+Language=0xc0a Español (España, internacional)
+
+
+[INFOTYPES]
+

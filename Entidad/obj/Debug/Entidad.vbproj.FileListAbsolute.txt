@@ -1,0 +1,40 @@
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.Resources.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Entidad\obj\Debug\Entidad.pdb

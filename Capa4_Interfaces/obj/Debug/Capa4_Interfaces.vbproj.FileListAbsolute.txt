@@ -1,0 +1,228 @@
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.exe.config
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmCliente.resources
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.exe
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.vbprojResolveAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.exe
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmCategoria.resources
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmProducto.resources
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmDetalle_venta.resources
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmVenta.resources
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmProcesos.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.exe.config
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.exe
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmAcercaDe.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBackup.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBitacora.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmCategoria.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmCliente.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBienvenida.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmConexionBD.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmDetalle_venta.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmError.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmFamilia.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmIdioma.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmLogin.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmPassword.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmPatentes.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmProcesos.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmProducto.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmReporte.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmReporteProducto.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmRestore.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmUsuario.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmVenta.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmMenu.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.exe
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmRecalculaDV.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.exe.config
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.exe
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.vbprojResolveAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.exe
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmAcercaDe.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBackup.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBitacora.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmCategoria.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmCliente.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBienvenida.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmConexionBD.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmDetalle_venta.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmError.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmFamilia.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmIdioma.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmLogin.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmPassword.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmPatentes.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmProcesos.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmProducto.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmRecalculaDV.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmReporte.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmReporteProducto.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmRestore.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmUsuario.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmVenta.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmMenu.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\RdlCompile.cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\RdlCompile.compiled
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.exe.config
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.exe
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.exe
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.vbprojResolveAssemblyReference.cache
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmAcercaDe.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBackup.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBitacora.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmCategoria.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmCliente.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBienvenida.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmConexionBD.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmDetalle_venta.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmError.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmFamilia.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmIdioma.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmLogin.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmPassword.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmPatentes.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmProcesos.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmProducto.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmRecalculaDV.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmReporte.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmReporteProducto.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmRestore.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmUsuario.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmVenta.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmMenu.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.Resources.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.vbproj.GenerateResource.Cache
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\RdlCompile.cache
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\RdlCompile.compiled
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.exe.config
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.exe
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.exe
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa4_Interfaces.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Idioma_Selector.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.vbprojResolveAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmAcercaDe.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBackup.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBitacora.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmCategoria.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmCliente.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmBienvenida.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmConexionBD.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmDetalle_venta.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmError.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmFamilia.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmIdioma.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmLogin.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmPassword.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmPatentes.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmProcesos.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmProducto.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmRecalculaDV.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmReporte.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmReporteProducto.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmRestore.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmUsuario.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmVenta.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.frmMenu.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\Capa4_Interfaces.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\RdlCompile.cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa4_Interfaces\obj\Debug\RdlCompile.compiled

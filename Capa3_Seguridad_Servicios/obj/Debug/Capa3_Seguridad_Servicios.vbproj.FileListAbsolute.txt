@@ -1,0 +1,98 @@
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.vbprojResolveAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.resEspañol.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.resIngles.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.vbprojResolveAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.resEspañol.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.resIngles.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.vbprojResolveAssemblyReference.cache
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.Resources.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.resEspañol.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.resIngles.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.vbproj.GenerateResource.Cache
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Capa2_Logica.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\bin\Debug\Entidad.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.vbprojResolveAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.resEspañol.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.resIngles.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa3_Seguridad_Servicios\obj\Debug\Capa3_Seguridad_Servicios.pdb

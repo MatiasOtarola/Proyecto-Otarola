@@ -1,0 +1,1558 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Capa3_Seguridad_Servicios
+</name>
+</assembly>
+<members>
+<member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ABMCliente">
+	<summary>
+  Busca una cadena traducida similar a Client Management.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ABMFamilia">
+	<summary>
+  Busca una cadena traducida similar a Familiy  Management.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ABMPatente">
+	<summary>
+  Busca una cadena traducida similar a Patent Management.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ABMUsuario">
+	<summary>
+  Busca una cadena traducida similar a User Management.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Aceptar">
+	<summary>
+  Busca una cadena traducida similar a Accept.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Acercade">
+	<summary>
+  Busca una cadena traducida similar a About ....
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Activado">
+	<summary>
+  Busca una cadena traducida similar a Status: Activated.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Activar">
+	<summary>
+  Busca una cadena traducida similar a Activate.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Actividad">
+	<summary>
+  Busca una cadena traducida similar a Activity.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Actualizar">
+	<summary>
+  Busca una cadena traducida similar a Update.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Administracion">
+	<summary>
+  Busca una cadena traducida similar a Administration.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.AdministrarBD">
+	<summary>
+  Busca una cadena traducida similar a Manage Database.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Agregar">
+	<summary>
+  Busca una cadena traducida similar a Add  &gt;&gt;.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Alimento">
+	<summary>
+  Busca una cadena traducida similar a Food.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Anterior">
+	<summary>
+  Busca una cadena traducida similar a &lt;&lt; Previous.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Apellido">
+	<summary>
+  Busca una cadena traducida similar a Last Name.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Asignar">
+	<summary>
+  Busca una cadena traducida similar a Assign .
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Automatico">
+	<summary>
+  Busca una cadena traducida similar a Automatic.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Ayuda">
+	<summary>
+  Busca una cadena traducida similar a Help.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Backup">
+	<summary>
+  Busca una cadena traducida similar a Backup.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.BEstado">
+	<summary>
+  Busca una cadena traducida similar a State Bar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.BHerramientas">
+	<summary>
+  Busca una cadena traducida similar a Tool Bar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Bitacora">
+	<summary>
+  Busca una cadena traducida similar a Logs.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Buscar">
+	<summary>
+  Busca una cadena traducida similar a Search &gt;&gt;.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Buscar_Estado">
+	<summary>
+  Busca una cadena traducida similar a Search Customer Status Checks.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cambiar">
+	<summary>
+  Busca una cadena traducida similar a Change Password.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cancelar">
+	<summary>
+  Busca una cadena traducida similar a Cancel.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cancelar_Nuevo">
+	<summary>
+  Busca una cadena traducida similar a Cancel New.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cantidad">
+	<summary>
+  Busca una cadena traducida similar a Quantity.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Caracteristicas">
+	<summary>
+  Busca una cadena traducida similar a Caracteristics.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cargo">
+	<summary>
+  Busca una cadena traducida similar a Charge.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cascada">
+	<summary>
+  Busca una cadena traducida similar a Cascade.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Categorias">
+	<summary>
+  Busca una cadena traducida similar a Categories.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cerrar">
+	<summary>
+  Busca una cadena traducida similar a Close.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cerrar_Sesion">
+	<summary>
+  Busca una cadena traducida similar a Logout.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.CheckCliente">
+	<summary>
+  Busca una cadena traducida similar a For the Client.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.CheckNoCliente">
+	<summary>
+  Busca una cadena traducida similar a Not fot the Client.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cheque_C">
+	<summary>
+  Busca una cadena traducida similar a Cash Checks.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cliente">
+	<summary>
+  Busca una cadena traducida similar a Clients.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cobrar_Cheque">
+	<summary>
+  Busca una cadena traducida similar a Check cashing.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cobro">
+	<summary>
+  Busca una cadena traducida similar a Payment.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cod_Cheque">
+	<summary>
+  Busca una cadena traducida similar a Check Code.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cod_Cuenta">
+	<summary>
+  Busca una cadena traducida similar a Account Code.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cod_Post">
+	<summary>
+  Busca una cadena traducida similar a Zip Code.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Comentarios">
+	<summary>
+  Busca una cadena traducida similar a Coments.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Comprimir">
+	<summary>
+  Busca una cadena traducida similar a Compresion.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Comprobante">
+	<summary>
+  Busca una cadena traducida similar a Ticket.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Concepto">
+	<summary>
+  Busca una cadena traducida similar a Concept.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Condicion">
+	<summary>
+  Busca una cadena traducida similar a Condition.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Configuraciones">
+	<summary>
+  Busca una cadena traducida similar a Configurations.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Consulta">
+	<summary>
+  Busca una cadena traducida similar a Search.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Contenido">
+	<summary>
+  Busca una cadena traducida similar a Contents.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Contrasena">
+	<summary>
+  Busca una cadena traducida similar a Password.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Controles">
+	<summary>
+  Busca una cadena traducida similar a Controls.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Copiar">
+	<summary>
+  Busca una cadena traducida similar a Copy.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Costo">
+	<summary>
+  Busca una cadena traducida similar a Amount.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Criticidad">
+	<summary>
+  Busca una cadena traducida similar a Criticality.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Cuentas">
+	<summary>
+  Busca una cadena traducida similar a Account.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Desactivado">
+	<summary>
+  Busca una cadena traducida similar a Status: Deactivated.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Desactivar">
+	<summary>
+  Busca una cadena traducida similar a Deactivate.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Descripcion">
+	<summary>
+  Busca una cadena traducida similar a Description.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Desde">
+	<summary>
+  Busca una cadena traducida similar a From.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Detalle">
+	<summary>
+  Busca una cadena traducida similar a Detail.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.DetallesCuenta">
+	<summary>
+  Busca una cadena traducida similar a Account Details.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.DetalleVentas">
+	<summary>
+  Busca una cadena traducida similar a Sales Details.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Direccion">
+	<summary>
+  Busca una cadena traducida similar a Address.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.DV">
+	<summary>
+  Busca una cadena traducida similar a Check Digit.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Edad">
+	<summary>
+  Busca una cadena traducida similar a Age.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Edicion">
+	<summary>
+  Busca una cadena traducida similar a Edit.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Eliminar">
+	<summary>
+  Busca una cadena traducida similar a Delete.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.EMail">
+	<summary>
+  Busca una cadena traducida similar a E-Mail.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Empleado">
+	<summary>
+  Busca una cadena traducida similar a Employee.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_Adm">
+	<summary>
+  Busca una cadena traducida similar a Contact to the System Administrator.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_BD">
+	<summary>
+  Busca una cadena traducida similar a An error was found in the DB. Table/Register :.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_Blanco">
+	<summary>
+  Busca una cadena traducida similar a There are blank fields:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_Busqueda">
+	<summary>
+  Busca una cadena traducida similar a No match is found by field: .
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_Campo">
+	<summary>
+  Busca una cadena traducida similar a The format is invalid or the guy waiting for the field:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_Cantidad">
+	<summary>
+  Busca una cadena traducida similar a The Quantity must be greater than 1.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_Conexion">
+	<summary>
+  Busca una cadena traducida similar a Unable to perform the operation because the database is open. See your administrator.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_Elim_Empl">
+	<summary>
+  Busca una cadena traducida similar a Error.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_Elim_Fam">
+	<summary>
+  Busca una cadena traducida similar a Error deleting Family.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_Existe">
+	<summary>
+  Busca una cadena traducida similar a Already exists:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_PassN">
+	<summary>
+  Busca una cadena traducida similar a Your new password not match, try again.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_PassV">
+	<summary>
+  Busca una cadena traducida similar a Your actual password is different.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_SQL">
+	<summary>
+  Busca una cadena traducida similar a There is an error in the Data Base when the system try to read/write. Call the Admnistrator.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_Usu_Fam">
+	<summary>
+  Busca una cadena traducida similar a The user already belongs to a family.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Err_usuario">
+	<summary>
+  Busca una cadena traducida similar a There is already into the Database an User called : .
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Error_Reing_Pass">
+	<summary>
+  Busca una cadena traducida similar a Password Error.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Error1">
+	<summary>
+  Busca una cadena traducida similar a Not Defined Error.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Esperar">
+	<summary>
+  Busca una cadena traducida similar a Are you sure you want to close the form?.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Estado">
+	<summary>
+  Busca una cadena traducida similar a Status.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Evento">
+	<summary>
+  Busca una cadena traducida similar a Event.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Examinar">
+	<summary>
+  Busca una cadena traducida similar a Examine.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Exito">
+	<summary>
+  Busca una cadena traducida similar a Operation successful.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Familia">
+	<summary>
+  Busca una cadena traducida similar a Family.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Fecha">
+	<summary>
+  Busca una cadena traducida similar a Date.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Fecha_Ing">
+	<summary>
+  Busca una cadena traducida similar a Date of Hired.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Fecha_Nac">
+	<summary>
+  Busca una cadena traducida similar a Birth Date.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Finanzas">
+	<summary>
+  Busca una cadena traducida similar a Finances.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Hasta">
+	<summary>
+  Busca una cadena traducida similar a Until.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Herramientas">
+	<summary>
+  Busca una cadena traducida similar a Tools.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Hora">
+	<summary>
+  Busca una cadena traducida similar a Hour.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ID">
+	<summary>
+  Busca una cadena traducida similar a ID Code.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Idioma_Cambiar">
+	<summary>
+  Busca una cadena traducida similar a Change Lenguaje.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Idioma_Text">
+	<summary>
+  Busca una cadena traducida similar a Lenguaje.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Imprimir">
+	<summary>
+  Busca una cadena traducida similar a Print.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Indice">
+	<summary>
+  Busca una cadena traducida similar a Index.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Ingresos">
+	<summary>
+  Busca una cadena traducida similar a Sales revenue.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Iniciar_Sesion">
+	<summary>
+  Busca una cadena traducida similar a Login.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Limpiar">
+	<summary>
+  Busca una cadena traducida similar a Clear.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Listado_Cheque">
+	<summary>
+  Busca una cadena traducida similar a Checks List.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Listar">
+	<summary>
+  Busca una cadena traducida similar a List.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Localidad">
+	<summary>
+  Busca una cadena traducida similar a City.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Mensual">
+	<summary>
+  Busca una cadena traducida similar a Monthly.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.MiembroDe">
+	<summary>
+  Busca una cadena traducida similar a Member Of:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Monto">
+	<summary>
+  Busca una cadena traducida similar a Amount.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Nick">
+	<summary>
+  Busca una cadena traducida similar a Nickname.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Nombre">
+	<summary>
+  Busca una cadena traducida similar a Name.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.NroCuenta">
+	<summary>
+  Busca una cadena traducida similar a Account Number.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Nuevo">
+	<summary>
+  Busca una cadena traducida similar a New.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Numero">
+	<summary>
+  Busca una cadena traducida similar a Number.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Ocupacion">
+	<summary>
+  Busca una cadena traducida similar a Job.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.OK_Backup">
+	<summary>
+  Busca una cadena traducida similar a Backup Finished OK.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.OK_Idioma">
+	<summary>
+  Busca una cadena traducida similar a Are you Sure to change the Lenguaje?.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.OK_Password">
+	<summary>
+  Busca una cadena traducida similar a Are you sure to change your password?.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.OK_Restore">
+	<summary>
+  Busca una cadena traducida similar a Restore Finished OK.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Opciones">
+	<summary>
+  Busca una cadena traducida similar a Options.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Pais">
+	<summary>
+  Busca una cadena traducida similar a Country.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Pass_Nuevo">
+	<summary>
+  Busca una cadena traducida similar a New Password:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Pass_Viejo">
+	<summary>
+  Busca una cadena traducida similar a Actual Password:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Patentes">
+	<summary>
+  Busca una cadena traducida similar a Privilegies.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Preg_Eliminar">
+	<summary>
+  Busca una cadena traducida similar a Are you sure ?.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Preg_Opera">
+	<summary>
+  Busca una cadena traducida similar a Are you sure?.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Preview">
+	<summary>
+  Busca una cadena traducida similar a Preview.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Procesos">
+	<summary>
+  Busca una cadena traducida similar a Processes.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Productos">
+	<summary>
+  Busca una cadena traducida similar a Products.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Provincia">
+	<summary>
+  Busca una cadena traducida similar a State.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Proyecto">
+	<summary>
+  Busca una cadena traducida similar a This is a project developed for the Trabajo de Diploma chair's in the career of computer-systems engineering in the Universidad Abierta Americana..
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.PurchaseAndSell">
+	<summary>
+  Busca una cadena traducida similar a Purchase and Sell Product System. Forbidden distribution without the consent of the creative enterprise..
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Quitar">
+	<summary>
+  Busca una cadena traducida similar a &lt;&lt; Remove.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Registrar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Register.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.RegistroVentas">
+	<summary>
+  Busca una cadena traducida similar a Sells Record.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Rein_Pass">
+	<summary>
+  Busca una cadena traducida similar a Reenter Password: .
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ReparacionBD">
+	<summary>
+  Busca una cadena traducida similar a Database repair succesfully.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Reporte">
+	<summary>
+  Busca una cadena traducida similar a Report of .
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ReporteEmpleados">
+	<summary>
+  Busca una cadena traducida similar a Staff Report.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ReporteProductos">
+	<summary>
+  Busca una cadena traducida similar a Products Report.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Reportes">
+	<summary>
+  Busca una cadena traducida similar a Reports.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Reserva">
+	<summary>
+  Busca una cadena traducida similar a Reservation.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Restore">
+	<summary>
+  Busca una cadena traducida similar a Restore.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Salir">
+	<summary>
+  Busca una cadena traducida similar a Exit.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Seguridad">
+	<summary>
+  Busca una cadena traducida similar a Security.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Seleccionar">
+	<summary>
+  Busca una cadena traducida similar a Select.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.SucursalDir">
+	<summary>
+  Busca una cadena traducida similar a Branch Address.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.SucursalNro">
+	<summary>
+  Busca una cadena traducida similar a Branch Number.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Telefono">
+	<summary>
+  Busca una cadena traducida similar a Telephone.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.TipoTel">
+	<summary>
+  Busca una cadena traducida similar a Phone Type.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Titulo_BU">
+	<summary>
+  Busca una cadena traducida similar a Select where to save the backup.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Titulo_RS">
+	<summary>
+  Busca una cadena traducida similar a Seleccione desde donde desea restaurar el BackUp.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Todos">
+	<summary>
+  Busca una cadena traducida similar a All.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Total_Cobro">
+	<summary>
+  Busca una cadena traducida similar a Total customer receivables: $ .
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttCod_Post">
+	<summary>
+  Busca una cadena traducida similar a Zip Code of Mailing Address.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttCUIT">
+	<summary>
+  Busca una cadena traducida similar a Identification number for the company.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttDireccion">
+	<summary>
+  Busca una cadena traducida similar a Address of the person.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttDNI">
+	<summary>
+  Busca una cadena traducida similar a Identificacion number for the person.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttEmail">
+	<summary>
+  Busca una cadena traducida similar a Email Address.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttEstado">
+	<summary>
+  Busca una cadena traducida similar a Marital status of the employee..
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttLocalidad">
+	<summary>
+  Busca una cadena traducida similar a City of the Person.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttNoCliente">
+	<summary>
+  Busca una cadena traducida similar a Details of non-Customer Account.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttNombreC">
+	<summary>
+  Busca una cadena traducida similar a Member Name for the System.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttNombreU">
+	<summary>
+  Busca una cadena traducida similar a User Name for the system.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttNroCuenta">
+	<summary>
+  Busca una cadena traducida similar a Nro. de Cuenta Corriente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttOcupacion">
+	<summary>
+  Busca una cadena traducida similar a Occupation or position of the individual exercising.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttPais">
+	<summary>
+  Busca una cadena traducida similar a Country to which the particular province.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttProvincia">
+	<summary>
+  Busca una cadena traducida similar a State of the Person.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttSiCliente">
+	<summary>
+  Busca una cadena traducida similar a Account Details Customer Belonging.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttSucursal">
+	<summary>
+  Busca una cadena traducida similar a Number of branch where the employee works..
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttTelefono">
+	<summary>
+  Busca una cadena traducida similar a Number of the telephone.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.ttTipoTel">
+	<summary>
+  Busca una cadena traducida similar a Type of telephone.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Usuario">
+	<summary>
+  Busca una cadena traducida similar a User.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Ventanas">
+	<summary>
+  Busca una cadena traducida similar a Windows.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Ventas">
+	<summary>
+  Busca una cadena traducida similar a Sells.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Ver">
+	<summary>
+  Busca una cadena traducida similar a View.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resIngles.Vertical">
+	<summary>
+  Busca una cadena traducida similar a Vertical.
+</summary>
+</member><member name="T:Capa3_Seguridad_Servicios.My.Resources.resIngles">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ABMCliente">
+	<summary>
+  Busca una cadena traducida similar a Administrar Clientes.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ABMFamilia">
+	<summary>
+  Busca una cadena traducida similar a Administrar Familia.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ABMPatente">
+	<summary>
+  Busca una cadena traducida similar a Administrar Patente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ABMUsuario">
+	<summary>
+  Busca una cadena traducida similar a Administrar Usuario.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Aceptar">
+	<summary>
+  Busca una cadena traducida similar a Aceptar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Acercade">
+	<summary>
+  Busca una cadena traducida similar a Acerca de ...
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Activado">
+	<summary>
+  Busca una cadena traducida similar a Estado: Activado.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Activar">
+	<summary>
+  Busca una cadena traducida similar a Activar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Actualizar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Actualizar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Administracion">
+	<summary>
+  Busca una cadena traducida similar a Administracion.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.AdministrarBD">
+	<summary>
+  Busca una cadena traducida similar a Administrar Base de Datos.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Agregar">
+	<summary>
+  Busca una cadena traducida similar a Agregar &gt;&gt;.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Anterior">
+	<summary>
+  Busca una cadena traducida similar a &lt;&lt; Anterior.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Apellido">
+	<summary>
+  Busca una cadena traducida similar a Apellido.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Asignar">
+	<summary>
+  Busca una cadena traducida similar a Asignar .
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Automatico">
+	<summary>
+  Busca una cadena traducida similar a Automático.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Ayuda">
+	<summary>
+  Busca una cadena traducida similar a Ayuda.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Backup">
+	<summary>
+  Busca una cadena traducida similar a Respaldar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.BEstado">
+	<summary>
+  Busca una cadena traducida similar a Barra de Estado.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.BHerramientas">
+	<summary>
+  Busca una cadena traducida similar a Barra de Herramientas.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Bitacora">
+	<summary>
+  Busca una cadena traducida similar a Bitacora.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Buscar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Buscar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Buscar_Estado">
+	<summary>
+  Busca una cadena traducida similar a Buscar Estado de Cheques de Cliente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.BuscarCheque">
+	<summary>
+  Busca una cadena traducida similar a Buscar Cheque.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Benef">
+	<summary>
+  Busca una cadena traducida similar a Beneficiario.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Categoria">
+	<summary>
+  Busca una cadena traducida similar a Categoría.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Cob">
+	<summary>
+  Busca una cadena traducida similar a Cobrado.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Comision">
+	<summary>
+  Busca una cadena traducida similar a Comisión.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_FechaEmi">
+	<summary>
+  Busca una cadena traducida similar a Fecha de Emsion.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Importe">
+	<summary>
+  Busca una cadena traducida similar a Importe.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Importe_Letra">
+	<summary>
+  Busca una cadena traducida similar a Importe en Letras.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Motivo">
+	<summary>
+  Busca una cadena traducida similar a Motivo.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Multa">
+	<summary>
+  Busca una cadena traducida similar a Multa.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_NroSerie">
+	<summary>
+  Busca una cadena traducida similar a Nro. de Serie.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Rech">
+	<summary>
+  Busca una cadena traducida similar a Rechazado.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Rech_Fecha">
+	<summary>
+  Busca una cadena traducida similar a Fecha de Rechazo.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_RechCobr">
+	<summary>
+  Busca una cadena traducida similar a Rechazado/Cobrado.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Recib">
+	<summary>
+  Busca una cadena traducida similar a Recibido.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.C_Recib_Fecha">
+	<summary>
+  Busca una cadena traducida similar a Fecha de Recibimiento.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cambiar">
+	<summary>
+  Busca una cadena traducida similar a Cambiar Contraseña.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cancelar">
+	<summary>
+  Busca una cadena traducida similar a Cancelar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cancelar_Nuevo">
+	<summary>
+  Busca una cadena traducida similar a Cancelar Nuevo.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cargo">
+	<summary>
+  Busca una cadena traducida similar a Cargo.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cascada">
+	<summary>
+  Busca una cadena traducida similar a Cascada.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Categorias">
+	<summary>
+  Busca una cadena traducida similar a Categorías.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cerrar">
+	<summary>
+  Busca una cadena traducida similar a Cerrar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cerrar_Sesion">
+	<summary>
+  Busca una cadena traducida similar a Cerrar Sesion.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.CheckCliente">
+	<summary>
+  Busca una cadena traducida similar a Del Cliente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.CheckNoCliente">
+	<summary>
+  Busca una cadena traducida similar a No del Cliente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cheque_C">
+	<summary>
+  Busca una cadena traducida similar a Cheque Cobrado.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cliente">
+	<summary>
+  Busca una cadena traducida similar a Clientes.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cobrar_Cheque">
+	<summary>
+  Busca una cadena traducida similar a Cobrar Cheque.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cod_Cheque">
+	<summary>
+  Busca una cadena traducida similar a ID Cheque.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cod_Cuenta">
+	<summary>
+  Busca una cadena traducida similar a Código de Cuenta.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Cod_Post">
+	<summary>
+  Busca una cadena traducida similar a Código Postal.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Comentarios">
+	<summary>
+  Busca una cadena traducida similar a Comentarios.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Comision">
+	<summary>
+  Busca una cadena traducida similar a Comision.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Comprimir">
+	<summary>
+  Busca una cadena traducida similar a Comprimir.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Comprobante">
+	<summary>
+  Busca una cadena traducida similar a Comprobante.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Concepto">
+	<summary>
+  Busca una cadena traducida similar a Concepto.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Condicion">
+	<summary>
+  Busca una cadena traducida similar a Condición.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Configuraciones">
+	<summary>
+  Busca una cadena traducida similar a Configuraciones.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Consulta">
+	<summary>
+  Busca una cadena traducida similar a Consulta.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Contenido">
+	<summary>
+  Busca una cadena traducida similar a Contenido.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Contrasena">
+	<summary>
+  Busca una cadena traducida similar a Contraseña.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Controles">
+	<summary>
+  Busca una cadena traducida similar a Controles.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Copiar">
+	<summary>
+  Busca una cadena traducida similar a Copiar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Costo">
+	<summary>
+  Busca una cadena traducida similar a Costo.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Criticidad">
+	<summary>
+  Busca una cadena traducida similar a Criticidad.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Desactivado">
+	<summary>
+  Busca una cadena traducida similar a Estado: Desactivado.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Desactivar">
+	<summary>
+  Busca una cadena traducida similar a Desactivar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Descripcion">
+	<summary>
+  Busca una cadena traducida similar a Descripcion.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Desde">
+	<summary>
+  Busca una cadena traducida similar a Desde.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Detalle">
+	<summary>
+  Busca una cadena traducida similar a Detalle.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.DetallesCuenta">
+	<summary>
+  Busca una cadena traducida similar a Detalles de Cuenta Corriente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.DetalleVentas">
+	<summary>
+  Busca una cadena traducida similar a Detalle de Ventas.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Direccion">
+	<summary>
+  Busca una cadena traducida similar a Direccion.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.DV">
+	<summary>
+  Busca una cadena traducida similar a Dígito Verificador.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Edad">
+	<summary>
+  Busca una cadena traducida similar a Edad.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Eliminar">
+	<summary>
+  Busca una cadena traducida similar a Eliminar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.EMail">
+	<summary>
+  Busca una cadena traducida similar a E-Mail.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Empleado">
+	<summary>
+  Busca una cadena traducida similar a Empleados.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_Adm">
+	<summary>
+  Busca una cadena traducida similar a Contacte al Administrador del Sistema.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_BD">
+	<summary>
+  Busca una cadena traducida similar a Se ha detectado un error en la Base de Datos. Tabla/Registro :.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_Blanco">
+	<summary>
+  Busca una cadena traducida similar a Campo en Blanco: .
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_Busqueda">
+	<summary>
+  Busca una cadena traducida similar a No se encuentra una coincidencia según el campo:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_Campo">
+	<summary>
+  Busca una cadena traducida similar a El Formato No es Válido o del Tipo Esperado para el campo :.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_Cantidad">
+	<summary>
+  Busca una cadena traducida similar a La cantidad debe ser mayor a 1.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_Conexion">
+	<summary>
+  Busca una cadena traducida similar a No se puede realizar la operación debido a que la base de datos está abierta. Consulte al administrador.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_Elim_Fam">
+	<summary>
+  Busca una cadena traducida similar a Error al Eliminar Familia.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_Existe">
+	<summary>
+  Busca una cadena traducida similar a Ya existe:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_PassN">
+	<summary>
+  Busca una cadena traducida similar a La nueva contraseña no coincide, ingresela nuevamente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_PassV">
+	<summary>
+  Busca una cadena traducida similar a Su contraseña actual no coincide.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_SQL">
+	<summary>
+  Busca una cadena traducida similar a Se ha Detectado un Error al Leer/Escribir en la Base de Datos. Consulte al Administrador.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_Usu_Fam">
+	<summary>
+  Busca una cadena traducida similar a El usuario ya pertenece a una familia.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Err_Usuario">
+	<summary>
+  Busca una cadena traducida similar a Ya existe en la base un Usuario con el Nombre : .
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Error_Reing_Pass">
+	<summary>
+  Busca una cadena traducida similar a Error en la Seleccion de Contraseña. Por favor reingresela.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Error1">
+	<summary>
+  Busca una cadena traducida similar a Error No Definido.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Esperar">
+	<summary>
+  Busca una cadena traducida similar a ¿ Está seguro de que desea cerrar el formulario ?.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Estado">
+	<summary>
+  Busca una cadena traducida similar a Estado.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Evento">
+	<summary>
+  Busca una cadena traducida similar a Evento.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Examinar">
+	<summary>
+  Busca una cadena traducida similar a Examinar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Exito">
+	<summary>
+  Busca una cadena traducida similar a Operación Exitosa.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Familia">
+	<summary>
+  Busca una cadena traducida similar a Familias.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Fecha">
+	<summary>
+  Busca una cadena traducida similar a Fecha.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Fecha_Ing">
+	<summary>
+  Busca una cadena traducida similar a Fecha de Ingreso.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Fecha_Nac">
+	<summary>
+  Busca una cadena traducida similar a Fecha de Nacimiento.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Finanzas">
+	<summary>
+  Busca una cadena traducida similar a Finanzas.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Hasta">
+	<summary>
+  Busca una cadena traducida similar a Hasta.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Herramientas">
+	<summary>
+  Busca una cadena traducida similar a Herramientas.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Hora">
+	<summary>
+  Busca una cadena traducida similar a Hora.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Horizontal">
+	<summary>
+  Busca una cadena traducida similar a Horizontal.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ID">
+	<summary>
+  Busca una cadena traducida similar a Código.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Idioma_Cambiar">
+	<summary>
+  Busca una cadena traducida similar a Cambiar Idioma.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Idioma_Text">
+	<summary>
+  Busca una cadena traducida similar a Idioma.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Imprimir">
+	<summary>
+  Busca una cadena traducida similar a Imprimir.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Indice">
+	<summary>
+  Busca una cadena traducida similar a Indice.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Ingresos">
+	<summary>
+  Busca una cadena traducida similar a Ingresos.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Iniciar_Sesion">
+	<summary>
+  Busca una cadena traducida similar a Iniciar Sesion.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Limpiar">
+	<summary>
+  Busca una cadena traducida similar a Limpiar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Listado_Cheque">
+	<summary>
+  Busca una cadena traducida similar a Listado de Cheques.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Listar">
+	<summary>
+  Busca una cadena traducida similar a Listar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Localidad">
+	<summary>
+  Busca una cadena traducida similar a Localidad.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.MiembroDe">
+	<summary>
+  Busca una cadena traducida similar a Miembro De:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Monto">
+	<summary>
+  Busca una cadena traducida similar a Monto.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Motivo_Preg">
+	<summary>
+  Busca una cadena traducida similar a Escriba el motivo de rechazo del cheque:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Nick">
+	<summary>
+  Busca una cadena traducida similar a Apodo.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Nombre">
+	<summary>
+  Busca una cadena traducida similar a Nombre.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Nuevo">
+	<summary>
+  Busca una cadena traducida similar a Nuevo.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Numero">
+	<summary>
+  Busca una cadena traducida similar a Numero.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Ocupacion">
+	<summary>
+  Busca una cadena traducida similar a Ocupación.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.OK_Backup">
+	<summary>
+  Busca una cadena traducida similar a Backup se realizo con éxito.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.OK_Idioma">
+	<summary>
+  Busca una cadena traducida similar a ¿ Esta seguro de Cambiar el Idioma ?.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.OK_Password">
+	<summary>
+  Busca una cadena traducida similar a ¿ Esta Seguro que desea cambiar la Contraseña ?.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.OK_Restore">
+	<summary>
+  Busca una cadena traducida similar a Restauracion Satisfactoria.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Opciones">
+	<summary>
+  Busca una cadena traducida similar a Opciones.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Pais">
+	<summary>
+  Busca una cadena traducida similar a Pais.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Pass_Nuevo">
+	<summary>
+  Busca una cadena traducida similar a Contraseña Nueva:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Pass_viejo">
+	<summary>
+  Busca una cadena traducida similar a Contraseña Actual:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Patentes">
+	<summary>
+  Busca una cadena traducida similar a Patentes.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Preg_Opera">
+	<summary>
+  Busca una cadena traducida similar a ¿Está seguro?.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Preview">
+	<summary>
+  Busca una cadena traducida similar a Previsualizar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Procesos">
+	<summary>
+  Busca una cadena traducida similar a Procesos.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Productos">
+	<summary>
+  Busca una cadena traducida similar a Productos.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Provincia">
+	<summary>
+  Busca una cadena traducida similar a Provincia.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Proyecto">
+	<summary>
+  Busca una cadena traducida similar a Este es un proyecto desarrollado para la cátedra de Trabajo de Diploma I, En la carrera de Ingeniería en Sistemas Informáticos para la facultad Universidad Abierta Interamericana..
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.PurchaseAndSell">
+	<summary>
+  Busca una cadena traducida similar a Sistema de Compra y Venta. Prohibida su distribución sin el consentimiento a la empresa creadora..
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Quitar">
+	<summary>
+  Busca una cadena traducida similar a &lt;&lt; Quitar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Registrar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Registrar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.RegistroVentas">
+	<summary>
+  Busca una cadena traducida similar a Registro de Ventas.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Rein_Pass">
+	<summary>
+  Busca una cadena traducida similar a Reingrese Contraseña:.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ReparacionBD">
+	<summary>
+  Busca una cadena traducida similar a Se ha realizado la reparacion de la BD.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Reporte">
+	<summary>
+  Busca una cadena traducida similar a Reporte de .
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ReporteEmpleados">
+	<summary>
+  Busca una cadena traducida similar a Reporte de Empleados.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ReporteProductos">
+	<summary>
+  Busca una cadena traducida similar a Reporte de Productos.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Reportes">
+	<summary>
+  Busca una cadena traducida similar a Reportes.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Reserva">
+	<summary>
+  Busca una cadena traducida similar a Reserva.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Restore">
+	<summary>
+  Busca una cadena traducida similar a Restaurar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Salir">
+	<summary>
+  Busca una cadena traducida similar a Salir.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Seguridad">
+	<summary>
+  Busca una cadena traducida similar a Seguridad.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Seleccionar">
+	<summary>
+  Busca una cadena traducida similar a Seleccionar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.SucursalDir">
+	<summary>
+  Busca una cadena traducida similar a Dirección de Sucursal.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.SucursalNro">
+	<summary>
+  Busca una cadena traducida similar a Número de Sucursal.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Telefono">
+	<summary>
+  Busca una cadena traducida similar a Telefono.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.TipoTel">
+	<summary>
+  Busca una cadena traducida similar a Tipo de Teléfono.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Titulo_BU">
+	<summary>
+  Busca una cadena traducida similar a Seleccione donde desea guardar la copia de seguridad.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Titulo_RS">
+	<summary>
+  Busca una cadena traducida similar a Seleccione desde donde desea restaurar la copia de seguridad.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Todos">
+	<summary>
+  Busca una cadena traducida similar a Todos.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Total_Cobro">
+	<summary>
+  Busca una cadena traducida similar a Total A Cobrar Para El Cliente: $.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttCod_Post">
+	<summary>
+  Busca una cadena traducida similar a Código Postal de la Dirección de Correo.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttCUIT">
+	<summary>
+  Busca una cadena traducida similar a CUIT de la Empresa o Identificador Fiscal Similar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttDireccion">
+	<summary>
+  Busca una cadena traducida similar a Direccion postal.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttDNI">
+	<summary>
+  Busca una cadena traducida similar a Documento Nacional de Identidad o Similar.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttEmail">
+	<summary>
+  Busca una cadena traducida similar a Dirección de Correo Electrónico.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttEstado">
+	<summary>
+  Busca una cadena traducida similar a Estado Civil del empleado..
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttLocalidad">
+	<summary>
+  Busca una cadena traducida similar a Localidad de la Ciudad.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttNoCliente">
+	<summary>
+  Busca una cadena traducida similar a Detalles de Cuenta No Pertenecientes al Cliente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttNombreC">
+	<summary>
+  Busca una cadena traducida similar a Nombre del Cliente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttNombreU">
+	<summary>
+  Busca una cadena traducida similar a Nombre del Usuario del sistema.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttNroCuenta">
+	<summary>
+  Busca una cadena traducida similar a Nro. de Cuenta Corriente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttOcupacion">
+	<summary>
+  Busca una cadena traducida similar a Profesión o cargo que ejerce la persona.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttPais">
+	<summary>
+  Busca una cadena traducida similar a País al que pertenece la determinada provincia.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttProvincia">
+	<summary>
+  Busca una cadena traducida similar a Provincia o Estado de Residencia.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttSiCliente">
+	<summary>
+  Busca una cadena traducida similar a Detalles de Cuenta Pertenecientes al Cliente.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttSucursal">
+	<summary>
+  Busca una cadena traducida similar a Número de sucursal donde trabaja el empleado..
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttTelefono">
+	<summary>
+  Busca una cadena traducida similar a Numero de Telefono.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.ttTipotel">
+	<summary>
+  Busca una cadena traducida similar a Tipo de Telefono (Fijo,Celular,Laboral,Fax,etc).
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Unidad_Medida">
+	<summary>
+  Busca una cadena traducida similar a Unidad de Medida.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Usuario">
+	<summary>
+  Busca una cadena traducida similar a Usuario.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Ventanas">
+	<summary>
+  Busca una cadena traducida similar a Ventanas.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Ventas">
+	<summary>
+  Busca una cadena traducida similar a Ventas.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Ver">
+	<summary>
+  Busca una cadena traducida similar a Ver.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.resEspañol.Vertical">
+	<summary>
+  Busca una cadena traducida similar a Vertical.
+</summary>
+</member><member name="T:Capa3_Seguridad_Servicios.My.Resources.resEspañol">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Capa3_Seguridad_Servicios.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Capa3_Seguridad_Servicios.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

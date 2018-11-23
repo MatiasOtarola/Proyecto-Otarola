@@ -1,0 +1,40 @@
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.pdb
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.dll
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.xml
+C:\Users\Usuario\Desktop\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.pdb
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.Resources.resources
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.vbproj.GenerateResource.Cache
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.dll
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.xml
+K:\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.pdb
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\bin\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.Resources.resources
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.vbproj.GenerateResource.Cache
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.dll
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.xml
+C:\Users\Matias\Desktop\Proyecto Final Trabajo de Diploma Otarola\Proyecto Final Trabajo de Diploma Otarola\Proyecto Trabajo de Diploma Otárola\Capa1_Datos\obj\Debug\Capa1_Datos.pdb
